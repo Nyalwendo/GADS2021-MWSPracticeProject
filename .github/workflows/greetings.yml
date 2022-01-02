@@ -6,8 +6,8 @@ jobs:
   greeting:
     runs-on: ubuntu-latest
     permissions:
-      issues: write
-      pull-requests: write
+      issues: education has to continue due to global pandemic covid-19
+      pull-requests: learning online
     steps:
     - uses: actions/first-interaction@v1
       with:
